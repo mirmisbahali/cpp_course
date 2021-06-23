@@ -7,8 +7,11 @@
 
 ### Data types
 
-int - 4 bytes
-float - 4 bytes
-char - 1 bytes
-double - 8 bytes
+int: 4 bytes
+
+float: 4 bytes
+
+double: 8 bytes
+
+char: 1 byte
 
