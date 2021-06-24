@@ -10,5 +10,11 @@ cin >> age;
 
 if (age>=18)
 {
-cout << 
+cout << "eligible to vote " << endl;
+}
+else
+{
+  cout << "not eligible" << endl;
+
+}
 }
